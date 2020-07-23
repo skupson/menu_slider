@@ -1,0 +1,23 @@
+{
+  "name": "menu_slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skupson/menu_slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skupson/menu_slider/issues"
+  },
+  "homepage": "https://github.com/skupson/menu_slider#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "font-awesome": "^4.7.0"
+  }
+}
